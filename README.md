@@ -1,3 +1,3 @@
 # My_Projects
-converter application is desktop application in which we can convert text files to pdf file or doc file,
+converter application is desktop application which is bulid in Tkinter GUI in python, in this application we can convert text files to pdf file or doc file,
 we can convert image to pdf, we can mearge two pdfs and in the application there is cool colour changing feature...
